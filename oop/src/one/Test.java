@@ -2,7 +2,6 @@ package one;
 // 类与对象
 public class Test {
     public static void main(String[] args) {
-
         Beauty beauty = new Beauty();
 
         beauty.name = "高圆圆";
