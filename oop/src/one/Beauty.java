@@ -9,4 +9,5 @@ public class Beauty {
     public void change() {
         System.out.println("美女更衣!");
     }
+    
 }
