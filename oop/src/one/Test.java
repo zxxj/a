@@ -12,7 +12,6 @@ public class Test {
         System.out.println("姓名:" + beauty.name + ", 年龄:" + beauty.age + ", 身高:" + beauty.height + ", 体重:" + beauty.wight);
 
         Beauty beauty2 = new Beauty();
-
         beauty2.name = "江疏影";
         beauty2.age = 20;
         beauty2.height = 1.72;
