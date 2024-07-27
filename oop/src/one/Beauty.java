@@ -1,7 +1,6 @@
 package one;
 
 public class Beauty {
-    
     String name;
     int age;
     double height;
