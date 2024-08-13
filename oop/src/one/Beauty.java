@@ -3,7 +3,6 @@ package one;
 public class Beauty {
     String name;
     int age;
-    // 
     double height;
     double wight;
     public void change() {
