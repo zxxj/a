@@ -6,7 +6,6 @@ public class Beauty {
     double height;
     double wight;
 
-    // 
     public void change() {
         System.out.println("美女更衣!");
     }
